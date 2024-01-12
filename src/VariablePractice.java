@@ -1,4 +1,7 @@
-public class Main {
+/*
+
+ */
+public class VariablePractice {
     public static void main (String[] args){
         var temperature = 25;
         System.out.println("The temperature is " + temperature);
