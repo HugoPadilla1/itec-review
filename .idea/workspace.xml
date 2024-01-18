@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4c03547-0e82-4934-a25a-6cdce7911c3b" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/src/LoopPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringCharacterPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariablePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CircleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingBatHugoPadilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopPractice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,48 +36,50 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2arUR4yl1i1F5kotuhYoBLixbd0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MethodPractice">
-    <configuration name="LoopPractice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopPractice1" />
+}</component>
+  <component name="RunManager" selected="Application.CodingBatHugoPadilla">
+    <configuration name="ArrayPractice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayPractice1" />
       <module name="itecreview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="ArrayPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayPractice2" />
       <module name="itecreview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodPractice" />
+    <configuration name="CircleTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CircleTester" />
       <module name="itecreview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCharacterPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringCharacterPractice" />
+    <configuration name="CodingBatHugoPadilla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingBatHugoPadilla" />
       <module name="itecreview" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablePractice" />
+    <configuration name="StudentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentTester" />
       <module name="itecreview" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodPractice" />
-        <item itemvalue="Application.LoopPractice1" />
-        <item itemvalue="Application.StringCharacterPractice" />
-        <item itemvalue="Application.VariablePractice" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CodingBatHugoPadilla" />
+        <item itemvalue="Application.StudentTester" />
+        <item itemvalue="Application.CircleTester" />
+        <item itemvalue="Application.ArrayPractice2" />
+        <item itemvalue="Application.ArrayPractice1" />
       </list>
     </recent_temporary>
   </component>
